@@ -6,7 +6,8 @@
 
 This contains everything you need to run your app locally.
 
-ＢＵＳＳＩＮ ☣ ＩＮＤＵＳＴＲＩＥＳ
+バッシン ⌬ インダストリーズ 
+
 
 
 ## Run Locally
