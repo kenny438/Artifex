@@ -1,0 +1,6 @@
+{
+  "name": "Artiffex",
+  "description": "A visual workflow editor to generate and transform images using AI. Features ImageScript, a powerful language to create images from code.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
